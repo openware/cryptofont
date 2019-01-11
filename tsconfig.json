@@ -1,0 +1,11 @@
+{
+  "extends": "./node_modules/@openware/coding-standards/tsconfig.json",
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "."
+  },
+  "include": [
+    "index.ts",
+    "typings.d.ts"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "@openware/cryptofont",
+  "version": "0.1.0",
+  "description": "CryptoBase Currency Icon Font and CSS",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "repository": "NONE",
+  "author": "Helios Technologies <contact@heliostech.fr>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "lint": "tsc --noEmit && tslint --project .",
+    "lint:fix": "yarn lint --fix",
+    "clean": "rimraf dist font",
+    "compile": "tsc",
+    "build:font": "rimraf font; mkdir -p font; icon-font-generator --name crypto-font --types ttf,woff,eot --prefix cr-crypto-font -o font ./node_modules/cryptocoins-icons/SVG/* --tag span --descent 100",
+    "build:pack": "webpack --mode production",
+    "build": "yarn clean && yarn build:font && yarn build:pack",
+    "test": "echo \"No test. Just works.\""
+  },
+  "dependencies": {
+    "cryptocoins-icons": "^2.8.0"
+  },
+  "devDependencies": {
+    "@openware/coding-standards": "^1.0.3",
+    "@types/node": "^10.5.8",
+    "@types/sanctuary": "^0.14.2",
+    "autoprefixer": "^9.1.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^1.0.0",
+    "cssnano": "^4.0.5",
+    "file-loader": "^1.1.11",
+    "icon-font-generator": "^2.1.8",
+    "json-loader": "^0.5.7",
+    "postcss-import": "^12.0.0",
+    "postcss-loader": "^3.0.0",
+    "postcss-preset-env": "^5.3.0",
+    "rimraf": "^2.6.2",
+    "style-loader": "^0.22.1",
+    "ts-loader": "^4.4.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1",
+    "url-loader": "^1.0.1",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  },
+  "workspaces": {
+    "nohoist": [
+      "cryptocoins-icons"
+    ]
+  }
+}

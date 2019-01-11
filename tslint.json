@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "@openware/coding-standards"
+  ],
+  "rules": {
+    "no-var-requires": false
+  }
+}

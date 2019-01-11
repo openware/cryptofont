@@ -1,0 +1,5 @@
+// enable json requires
+declare module '*.json' {
+  const value: any;
+  export default value;
+}
