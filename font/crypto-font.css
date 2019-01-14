@@ -1,12 +1,8 @@
 @font-face {
     font-family: "crypto-font";
-    src: url("./crypto-font.eot?a62c435d3b30eda8ec4dfe784aaeff3b?#iefix") format("embedded-opentype"),
-url("./crypto-font.woff?a62c435d3b30eda8ec4dfe784aaeff3b") format("woff"),
-url("./crypto-font.ttf?a62c435d3b30eda8ec4dfe784aaeff3b") format("truetype");
-}
-
-span {
-    line-height: 1;
+    src: url("./crypto-font.eot?11e190e99af9ae420b2a654d6373f79d?#iefix") format("embedded-opentype"),
+url("./crypto-font.woff?11e190e99af9ae420b2a654d6373f79d") format("woff"),
+url("./crypto-font.ttf?11e190e99af9ae420b2a654d6373f79d") format("truetype");
 }
 
 span[class^="cr-crypto-font-"]:before, span[class*=" cr-crypto-font-"]:before {
@@ -128,858 +124,885 @@ span[class^="cr-crypto-font-"]:before, span[class*=" cr-crypto-font-"]:before {
 .cr-crypto-font-BLZ:before {
     content: "\f124";
 }
-.cr-crypto-font-BRK-alt:before {
+.cr-crypto-font-BNB:before {
     content: "\f125";
 }
-.cr-crypto-font-BRK:before {
+.cr-crypto-font-BRK-alt:before {
     content: "\f126";
 }
-.cr-crypto-font-BRX-alt:before {
+.cr-crypto-font-BRK:before {
     content: "\f127";
 }
-.cr-crypto-font-BRX:before {
+.cr-crypto-font-BRX-alt:before {
     content: "\f128";
 }
-.cr-crypto-font-BSD-alt:before {
+.cr-crypto-font-BRX:before {
     content: "\f129";
 }
-.cr-crypto-font-BSD:before {
+.cr-crypto-font-BSD-alt:before {
     content: "\f12a";
 }
-.cr-crypto-font-BTA:before {
+.cr-crypto-font-BSD:before {
     content: "\f12b";
 }
-.cr-crypto-font-BTC-alt:before {
+.cr-crypto-font-BTA:before {
     content: "\f12c";
 }
-.cr-crypto-font-BTCD-alt:before {
+.cr-crypto-font-BTC-alt:before {
     content: "\f12d";
 }
-.cr-crypto-font-BTCD:before {
+.cr-crypto-font-BTCD-alt:before {
     content: "\f12e";
 }
-.cr-crypto-font-BTCP-alt:before {
+.cr-crypto-font-BTCD:before {
     content: "\f12f";
 }
-.cr-crypto-font-BTCP:before {
+.cr-crypto-font-BTCP-alt:before {
     content: "\f130";
 }
-.cr-crypto-font-BTC:before {
+.cr-crypto-font-BTCP:before {
     content: "\f131";
 }
-.cr-crypto-font-BTM-alt:before {
+.cr-crypto-font-BTC:before {
     content: "\f132";
 }
-.cr-crypto-font-BTM:before {
+.cr-crypto-font-BTG:before {
     content: "\f133";
 }
-.cr-crypto-font-BTS-alt:before {
+.cr-crypto-font-BTM-alt:before {
     content: "\f134";
 }
-.cr-crypto-font-BTS:before {
+.cr-crypto-font-BTM:before {
     content: "\f135";
 }
-.cr-crypto-font-BURST:before {
+.cr-crypto-font-BTS-alt:before {
     content: "\f136";
 }
-.cr-crypto-font-CLAM-alt:before {
+.cr-crypto-font-BTS:before {
     content: "\f137";
 }
-.cr-crypto-font-CLAM:before {
+.cr-crypto-font-BURST:before {
     content: "\f138";
 }
-.cr-crypto-font-CLOAK-alt:before {
+.cr-crypto-font-CLAM-alt:before {
     content: "\f139";
 }
-.cr-crypto-font-CLOAK:before {
+.cr-crypto-font-CLAM:before {
     content: "\f13a";
 }
-.cr-crypto-font-CVC-alt:before {
+.cr-crypto-font-CLOAK-alt:before {
     content: "\f13b";
 }
-.cr-crypto-font-CVC:before {
+.cr-crypto-font-CLOAK:before {
     content: "\f13c";
 }
-.cr-crypto-font-DAO-alt:before {
+.cr-crypto-font-CVC-alt:before {
     content: "\f13d";
 }
-.cr-crypto-font-DAO:before {
+.cr-crypto-font-CVC:before {
     content: "\f13e";
 }
-.cr-crypto-font-DASH-alt:before {
+.cr-crypto-font-DAO-alt:before {
     content: "\f13f";
 }
-.cr-crypto-font-DASH:before {
+.cr-crypto-font-DAO:before {
     content: "\f140";
 }
-.cr-crypto-font-DCR-alt:before {
+.cr-crypto-font-DASH-alt:before {
     content: "\f141";
 }
-.cr-crypto-font-DCR:before {
+.cr-crypto-font-DASH:before {
     content: "\f142";
 }
-.cr-crypto-font-DCT-alt:before {
+.cr-crypto-font-DCR-alt:before {
     content: "\f143";
 }
-.cr-crypto-font-DCT:before {
+.cr-crypto-font-DCR:before {
     content: "\f144";
 }
-.cr-crypto-font-DGB-alt:before {
+.cr-crypto-font-DCT-alt:before {
     content: "\f145";
 }
-.cr-crypto-font-DGB:before {
+.cr-crypto-font-DCT:before {
     content: "\f146";
 }
-.cr-crypto-font-DGD:before {
+.cr-crypto-font-DGB-alt:before {
     content: "\f147";
 }
-.cr-crypto-font-DGX:before {
+.cr-crypto-font-DGB:before {
     content: "\f148";
 }
-.cr-crypto-font-DMD-alt:before {
+.cr-crypto-font-DGD:before {
     content: "\f149";
 }
-.cr-crypto-font-DMD:before {
+.cr-crypto-font-DGX:before {
     content: "\f14a";
 }
-.cr-crypto-font-DOGE-alt:before {
+.cr-crypto-font-DMD-alt:before {
     content: "\f14b";
 }
-.cr-crypto-font-DOGE:before {
+.cr-crypto-font-DMD:before {
     content: "\f14c";
 }
-.cr-crypto-font-EMC2-alt:before {
+.cr-crypto-font-DOGE-alt:before {
     content: "\f14d";
 }
-.cr-crypto-font-EMC2:before {
+.cr-crypto-font-DOGE:before {
     content: "\f14e";
 }
-.cr-crypto-font-EMC-alt:before {
+.cr-crypto-font-EMC2-alt:before {
     content: "\f14f";
 }
-.cr-crypto-font-EMC:before {
+.cr-crypto-font-EMC2:before {
     content: "\f150";
 }
-.cr-crypto-font-EOS-alt:before {
+.cr-crypto-font-EMC-alt:before {
     content: "\f151";
 }
-.cr-crypto-font-EOS:before {
+.cr-crypto-font-EMC:before {
     content: "\f152";
 }
-.cr-crypto-font-ERC-alt:before {
+.cr-crypto-font-EOS-alt:before {
     content: "\f153";
 }
-.cr-crypto-font-ERC:before {
+.cr-crypto-font-EOS:before {
     content: "\f154";
 }
-.cr-crypto-font-ETC-alt:before {
+.cr-crypto-font-ERC-alt:before {
     content: "\f155";
 }
-.cr-crypto-font-ETC:before {
+.cr-crypto-font-ERC:before {
     content: "\f156";
 }
-.cr-crypto-font-ETH-alt:before {
+.cr-crypto-font-ETC-alt:before {
     content: "\f157";
 }
-.cr-crypto-font-ETH:before {
+.cr-crypto-font-ETC:before {
     content: "\f158";
 }
-.cr-crypto-font-EXP-alt:before {
+.cr-crypto-font-ETH-alt:before {
     content: "\f159";
 }
-.cr-crypto-font-EXP:before {
+.cr-crypto-font-ETH:before {
     content: "\f15a";
 }
-.cr-crypto-font-FC2-alt:before {
+.cr-crypto-font-EXP-alt:before {
     content: "\f15b";
 }
-.cr-crypto-font-FC2:before {
+.cr-crypto-font-EXP:before {
     content: "\f15c";
 }
-.cr-crypto-font-FCT-alt:before {
+.cr-crypto-font-FC2-alt:before {
     content: "\f15d";
 }
-.cr-crypto-font-FCT:before {
+.cr-crypto-font-FC2:before {
     content: "\f15e";
 }
-.cr-crypto-font-FLDC-alt:before {
+.cr-crypto-font-FCT-alt:before {
     content: "\f15f";
 }
-.cr-crypto-font-FLDC:before {
+.cr-crypto-font-FCT:before {
     content: "\f160";
 }
-.cr-crypto-font-FLO-alt:before {
+.cr-crypto-font-FLDC-alt:before {
     content: "\f161";
 }
-.cr-crypto-font-FLO:before {
+.cr-crypto-font-FLDC:before {
     content: "\f162";
 }
-.cr-crypto-font-FRK-alt:before {
+.cr-crypto-font-FLO-alt:before {
     content: "\f163";
 }
-.cr-crypto-font-FRK:before {
+.cr-crypto-font-FLO:before {
     content: "\f164";
 }
-.cr-crypto-font-FTC-alt:before {
+.cr-crypto-font-FRK-alt:before {
     content: "\f165";
 }
-.cr-crypto-font-FTC:before {
+.cr-crypto-font-FRK:before {
     content: "\f166";
 }
-.cr-crypto-font-FUN:before {
+.cr-crypto-font-FTC-alt:before {
     content: "\f167";
 }
-.cr-crypto-font-GAME-alt:before {
+.cr-crypto-font-FTC:before {
     content: "\f168";
 }
-.cr-crypto-font-GAME:before {
+.cr-crypto-font-FUN:before {
     content: "\f169";
 }
-.cr-crypto-font-GBYTE-alt:before {
+.cr-crypto-font-GAME-alt:before {
     content: "\f16a";
 }
-.cr-crypto-font-GBYTE:before {
+.cr-crypto-font-GAME:before {
     content: "\f16b";
 }
-.cr-crypto-font-GDC-alt:before {
+.cr-crypto-font-GBYTE-alt:before {
     content: "\f16c";
 }
-.cr-crypto-font-GDC:before {
+.cr-crypto-font-GBYTE:before {
     content: "\f16d";
 }
-.cr-crypto-font-GEMZ-alt:before {
+.cr-crypto-font-GDC-alt:before {
     content: "\f16e";
 }
-.cr-crypto-font-GEMZ:before {
+.cr-crypto-font-GDC:before {
     content: "\f16f";
 }
-.cr-crypto-font-GLD-alt:before {
+.cr-crypto-font-GEMZ-alt:before {
     content: "\f170";
 }
-.cr-crypto-font-GLD:before {
+.cr-crypto-font-GEMZ:before {
     content: "\f171";
 }
-.cr-crypto-font-GNO-alt:before {
+.cr-crypto-font-GLD-alt:before {
     content: "\f172";
 }
-.cr-crypto-font-GNO:before {
+.cr-crypto-font-GLD:before {
     content: "\f173";
 }
-.cr-crypto-font-GNT-alt:before {
+.cr-crypto-font-GNO-alt:before {
     content: "\f174";
 }
-.cr-crypto-font-GNT:before {
+.cr-crypto-font-GNO:before {
     content: "\f175";
 }
-.cr-crypto-font-GOLOS-alt:before {
+.cr-crypto-font-GNT-alt:before {
     content: "\f176";
 }
-.cr-crypto-font-GOLOS:before {
+.cr-crypto-font-GNT:before {
     content: "\f177";
 }
-.cr-crypto-font-GRC-alt:before {
+.cr-crypto-font-GOLOS-alt:before {
     content: "\f178";
 }
-.cr-crypto-font-GRC:before {
+.cr-crypto-font-GOLOS:before {
     content: "\f179";
 }
-.cr-crypto-font-GRS:before {
+.cr-crypto-font-GRC-alt:before {
     content: "\f17a";
 }
-.cr-crypto-font-HEAT-alt:before {
+.cr-crypto-font-GRC:before {
     content: "\f17b";
 }
-.cr-crypto-font-HEAT:before {
+.cr-crypto-font-GRS:before {
     content: "\f17c";
 }
-.cr-crypto-font-HUC-alt:before {
+.cr-crypto-font-HEAT-alt:before {
     content: "\f17d";
 }
-.cr-crypto-font-HUC:before {
+.cr-crypto-font-HEAT:before {
     content: "\f17e";
 }
-.cr-crypto-font-ICN-alt:before {
+.cr-crypto-font-HSR:before {
     content: "\f17f";
 }
-.cr-crypto-font-ICN:before {
+.cr-crypto-font-HUC-alt:before {
     content: "\f180";
 }
-.cr-crypto-font-IFC-alt:before {
+.cr-crypto-font-HUC:before {
     content: "\f181";
 }
-.cr-crypto-font-IFC:before {
+.cr-crypto-font-ICN-alt:before {
     content: "\f182";
 }
-.cr-crypto-font-INCNT-alt:before {
+.cr-crypto-font-ICN:before {
     content: "\f183";
 }
-.cr-crypto-font-INCNT:before {
+.cr-crypto-font-ICX:before {
     content: "\f184";
 }
-.cr-crypto-font-IOC-alt:before {
+.cr-crypto-font-IFC-alt:before {
     content: "\f185";
 }
-.cr-crypto-font-IOC:before {
+.cr-crypto-font-IFC:before {
     content: "\f186";
 }
-.cr-crypto-font-IOTA-alt:before {
+.cr-crypto-font-INCNT-alt:before {
     content: "\f187";
 }
-.cr-crypto-font-IOTA:before {
+.cr-crypto-font-INCNT:before {
     content: "\f188";
 }
-.cr-crypto-font-JBS-alt:before {
+.cr-crypto-font-IOC-alt:before {
     content: "\f189";
 }
-.cr-crypto-font-JBS:before {
+.cr-crypto-font-IOC:before {
     content: "\f18a";
 }
-.cr-crypto-font-KMD-alt:before {
+.cr-crypto-font-IOTA-alt:before {
     content: "\f18b";
 }
-.cr-crypto-font-KMD:before {
+.cr-crypto-font-IOTA:before {
     content: "\f18c";
 }
-.cr-crypto-font-KOBO:before {
+.cr-crypto-font-JBS-alt:before {
     content: "\f18d";
 }
-.cr-crypto-font-KORE-alt:before {
+.cr-crypto-font-JBS:before {
     content: "\f18e";
 }
-.cr-crypto-font-KORE:before {
+.cr-crypto-font-KMD-alt:before {
     content: "\f18f";
 }
-.cr-crypto-font-LBC-alt:before {
+.cr-crypto-font-KMD:before {
     content: "\f190";
 }
-.cr-crypto-font-LBC:before {
+.cr-crypto-font-KOBO:before {
     content: "\f191";
 }
-.cr-crypto-font-LDOGE-alt:before {
+.cr-crypto-font-KORE-alt:before {
     content: "\f192";
 }
-.cr-crypto-font-LDOGE:before {
+.cr-crypto-font-KORE:before {
     content: "\f193";
 }
-.cr-crypto-font-LSK-alt:before {
+.cr-crypto-font-LBC-alt:before {
     content: "\f194";
 }
-.cr-crypto-font-LSK:before {
+.cr-crypto-font-LBC:before {
     content: "\f195";
 }
-.cr-crypto-font-LTC-alt:before {
+.cr-crypto-font-LDOGE-alt:before {
     content: "\f196";
 }
-.cr-crypto-font-LTC:before {
+.cr-crypto-font-LDOGE:before {
     content: "\f197";
 }
-.cr-crypto-font-MAID-alt:before {
+.cr-crypto-font-LSK-alt:before {
     content: "\f198";
 }
-.cr-crypto-font-MAID:before {
+.cr-crypto-font-LSK:before {
     content: "\f199";
 }
-.cr-crypto-font-MARKS-alt:before {
+.cr-crypto-font-LTC-alt:before {
     content: "\f19a";
 }
-.cr-crypto-font-MARKS:before {
+.cr-crypto-font-LTC:before {
     content: "\f19b";
 }
-.cr-crypto-font-MCO-alt:before {
+.cr-crypto-font-MAID-alt:before {
     content: "\f19c";
 }
-.cr-crypto-font-MCO:before {
+.cr-crypto-font-MAID:before {
     content: "\f19d";
 }
-.cr-crypto-font-MINT-alt:before {
+.cr-crypto-font-MARKS-alt:before {
     content: "\f19e";
 }
-.cr-crypto-font-MINT:before {
+.cr-crypto-font-MARKS:before {
     content: "\f19f";
 }
-.cr-crypto-font-MONA-alt:before {
+.cr-crypto-font-MCO-alt:before {
     content: "\f1a0";
 }
-.cr-crypto-font-MONA:before {
+.cr-crypto-font-MCO:before {
     content: "\f1a1";
 }
-.cr-crypto-font-MRC:before {
+.cr-crypto-font-MINT-alt:before {
     content: "\f1a2";
 }
-.cr-crypto-font-MSC-alt:before {
+.cr-crypto-font-MINT:before {
     content: "\f1a3";
 }
-.cr-crypto-font-MSC:before {
+.cr-crypto-font-MONA-alt:before {
     content: "\f1a4";
 }
-.cr-crypto-font-MTL-alt:before {
+.cr-crypto-font-MONA:before {
     content: "\f1a5";
 }
-.cr-crypto-font-MTL:before {
+.cr-crypto-font-MRC:before {
     content: "\f1a6";
 }
-.cr-crypto-font-MTR-alt:before {
+.cr-crypto-font-MSC-alt:before {
     content: "\f1a7";
 }
-.cr-crypto-font-MTR:before {
+.cr-crypto-font-MSC:before {
     content: "\f1a8";
 }
-.cr-crypto-font-MUE-alt:before {
+.cr-crypto-font-MTL-alt:before {
     content: "\f1a9";
 }
-.cr-crypto-font-MUE:before {
+.cr-crypto-font-MTL:before {
     content: "\f1aa";
 }
-.cr-crypto-font-MYST-alt:before {
+.cr-crypto-font-MTR-alt:before {
     content: "\f1ab";
 }
-.cr-crypto-font-MYST:before {
+.cr-crypto-font-MTR:before {
     content: "\f1ac";
 }
-.cr-crypto-font-NAV-alt:before {
+.cr-crypto-font-MUE-alt:before {
     content: "\f1ad";
 }
-.cr-crypto-font-NAV:before {
+.cr-crypto-font-MUE:before {
     content: "\f1ae";
 }
-.cr-crypto-font-NBT:before {
+.cr-crypto-font-MYST-alt:before {
     content: "\f1af";
 }
-.cr-crypto-font-NEO-alt:before {
+.cr-crypto-font-MYST:before {
     content: "\f1b0";
 }
-.cr-crypto-font-NEOS-alt:before {
+.cr-crypto-font-NAV-alt:before {
     content: "\f1b1";
 }
-.cr-crypto-font-NEOS:before {
+.cr-crypto-font-NAV:before {
     content: "\f1b2";
 }
-.cr-crypto-font-NEO:before {
+.cr-crypto-font-NBT:before {
     content: "\f1b3";
 }
-.cr-crypto-font-NEU-alt:before {
+.cr-crypto-font-NEO-alt:before {
     content: "\f1b4";
 }
-.cr-crypto-font-NEU:before {
+.cr-crypto-font-NEOS-alt:before {
     content: "\f1b5";
 }
-.cr-crypto-font-NLG-alt:before {
+.cr-crypto-font-NEOS:before {
     content: "\f1b6";
 }
-.cr-crypto-font-NLG:before {
+.cr-crypto-font-NEO:before {
     content: "\f1b7";
 }
-.cr-crypto-font-NMC-alt:before {
+.cr-crypto-font-NEU-alt:before {
     content: "\f1b8";
 }
-.cr-crypto-font-NMC:before {
+.cr-crypto-font-NEU:before {
     content: "\f1b9";
 }
-.cr-crypto-font-NMR:before {
+.cr-crypto-font-NLG-alt:before {
     content: "\f1ba";
 }
-.cr-crypto-font-NOTE-alt:before {
+.cr-crypto-font-NLG:before {
     content: "\f1bb";
 }
-.cr-crypto-font-NOTE:before {
+.cr-crypto-font-NMC-alt:before {
     content: "\f1bc";
 }
-.cr-crypto-font-NVC-alt:before {
+.cr-crypto-font-NMC:before {
     content: "\f1bd";
 }
-.cr-crypto-font-NVC:before {
+.cr-crypto-font-NMR:before {
     content: "\f1be";
 }
-.cr-crypto-font-NXT-alt:before {
+.cr-crypto-font-NOTE-alt:before {
     content: "\f1bf";
 }
-.cr-crypto-font-NXT:before {
+.cr-crypto-font-NOTE:before {
     content: "\f1c0";
 }
-.cr-crypto-font-OK-alt:before {
+.cr-crypto-font-NVC-alt:before {
     content: "\f1c1";
 }
-.cr-crypto-font-OK:before {
+.cr-crypto-font-NVC:before {
     content: "\f1c2";
 }
-.cr-crypto-font-OMG-alt:before {
+.cr-crypto-font-NXT-alt:before {
     content: "\f1c3";
 }
-.cr-crypto-font-OMG:before {
+.cr-crypto-font-NXT:before {
     content: "\f1c4";
 }
-.cr-crypto-font-OMNI-alt:before {
+.cr-crypto-font-OK-alt:before {
     content: "\f1c5";
 }
-.cr-crypto-font-OMNI:before {
+.cr-crypto-font-OK:before {
     content: "\f1c6";
 }
-.cr-crypto-font-OPAL-alt:before {
+.cr-crypto-font-OMG-alt:before {
     content: "\f1c7";
 }
-.cr-crypto-font-OPAL:before {
+.cr-crypto-font-OMG:before {
     content: "\f1c8";
 }
-.cr-crypto-font-PART-alt:before {
+.cr-crypto-font-OMNI-alt:before {
     content: "\f1c9";
 }
-.cr-crypto-font-PART:before {
+.cr-crypto-font-OMNI:before {
     content: "\f1ca";
 }
-.cr-crypto-font-PASC:before {
+.cr-crypto-font-OPAL-alt:before {
     content: "\f1cb";
 }
-.cr-crypto-font-PIGGY-alt:before {
+.cr-crypto-font-OPAL:before {
     content: "\f1cc";
 }
-.cr-crypto-font-PIGGY:before {
+.cr-crypto-font-PART-alt:before {
     content: "\f1cd";
 }
-.cr-crypto-font-PINK-alt:before {
+.cr-crypto-font-PART:before {
     content: "\f1ce";
 }
-.cr-crypto-font-PINK:before {
+.cr-crypto-font-PASC:before {
     content: "\f1cf";
 }
-.cr-crypto-font-PIVX-alt:before {
+.cr-crypto-font-PIGGY-alt:before {
     content: "\f1d0";
 }
-.cr-crypto-font-PIVX:before {
+.cr-crypto-font-PIGGY:before {
     content: "\f1d1";
 }
-.cr-crypto-font-POT-alt:before {
+.cr-crypto-font-PINK-alt:before {
     content: "\f1d2";
 }
-.cr-crypto-font-POT:before {
+.cr-crypto-font-PINK:before {
     content: "\f1d3";
 }
-.cr-crypto-font-PPC-alt:before {
+.cr-crypto-font-PIVX-alt:before {
     content: "\f1d4";
 }
-.cr-crypto-font-PPC:before {
+.cr-crypto-font-PIVX:before {
     content: "\f1d5";
 }
-.cr-crypto-font-QRK-alt:before {
+.cr-crypto-font-POT-alt:before {
     content: "\f1d6";
 }
-.cr-crypto-font-QRK:before {
+.cr-crypto-font-POT:before {
     content: "\f1d7";
 }
-.cr-crypto-font-QTUM-alt:before {
+.cr-crypto-font-PPC-alt:before {
     content: "\f1d8";
 }
-.cr-crypto-font-QTUM:before {
+.cr-crypto-font-PPC:before {
     content: "\f1d9";
 }
-.cr-crypto-font-RADS-alt:before {
+.cr-crypto-font-PPT:before {
     content: "\f1da";
 }
-.cr-crypto-font-RADS:before {
+.cr-crypto-font-QRK-alt:before {
     content: "\f1db";
 }
-.cr-crypto-font-RBIES-alt:before {
+.cr-crypto-font-QRK:before {
     content: "\f1dc";
 }
-.cr-crypto-font-RBIES:before {
+.cr-crypto-font-QTUM-alt:before {
     content: "\f1dd";
 }
-.cr-crypto-font-RBT-alt:before {
+.cr-crypto-font-QTUM:before {
     content: "\f1de";
 }
-.cr-crypto-font-RBT:before {
+.cr-crypto-font-RADS-alt:before {
     content: "\f1df";
 }
-.cr-crypto-font-RBY-alt:before {
+.cr-crypto-font-RADS:before {
     content: "\f1e0";
 }
-.cr-crypto-font-RBY:before {
+.cr-crypto-font-RBIES-alt:before {
     content: "\f1e1";
 }
-.cr-crypto-font-RDD-alt:before {
+.cr-crypto-font-RBIES:before {
     content: "\f1e2";
 }
-.cr-crypto-font-RDD:before {
+.cr-crypto-font-RBT-alt:before {
     content: "\f1e3";
 }
-.cr-crypto-font-REP-alt:before {
+.cr-crypto-font-RBT:before {
     content: "\f1e4";
 }
-.cr-crypto-font-REP:before {
+.cr-crypto-font-RBY-alt:before {
     content: "\f1e5";
 }
-.cr-crypto-font-RHOC:before {
+.cr-crypto-font-RBY:before {
     content: "\f1e6";
 }
-.cr-crypto-font-RIC-alt:before {
+.cr-crypto-font-RDD-alt:before {
     content: "\f1e7";
 }
-.cr-crypto-font-RIC:before {
+.cr-crypto-font-RDD:before {
     content: "\f1e8";
 }
-.cr-crypto-font-RISE-alt:before {
+.cr-crypto-font-REP-alt:before {
     content: "\f1e9";
 }
-.cr-crypto-font-RISE:before {
+.cr-crypto-font-REP:before {
     content: "\f1ea";
 }
-.cr-crypto-font-SALT-alt:before {
+.cr-crypto-font-RHOC:before {
     content: "\f1eb";
 }
-.cr-crypto-font-SALT:before {
+.cr-crypto-font-RIC-alt:before {
     content: "\f1ec";
 }
-.cr-crypto-font-SAR-alt:before {
+.cr-crypto-font-RIC:before {
     content: "\f1ed";
 }
-.cr-crypto-font-SAR:before {
+.cr-crypto-font-RISE-alt:before {
     content: "\f1ee";
 }
-.cr-crypto-font-SCOT-alt:before {
+.cr-crypto-font-RISE:before {
     content: "\f1ef";
 }
-.cr-crypto-font-SCOT:before {
+.cr-crypto-font-SALT-alt:before {
     content: "\f1f0";
 }
-.cr-crypto-font-SDC-alt:before {
+.cr-crypto-font-SALT:before {
     content: "\f1f1";
 }
-.cr-crypto-font-SDC:before {
+.cr-crypto-font-SAR-alt:before {
     content: "\f1f2";
 }
-.cr-crypto-font-SIA-alt:before {
+.cr-crypto-font-SAR:before {
     content: "\f1f3";
 }
-.cr-crypto-font-SIA:before {
+.cr-crypto-font-SCOT-alt:before {
     content: "\f1f4";
 }
-.cr-crypto-font-SJCX-alt:before {
+.cr-crypto-font-SCOT:before {
     content: "\f1f5";
 }
-.cr-crypto-font-SJCX:before {
+.cr-crypto-font-SDC-alt:before {
     content: "\f1f6";
 }
-.cr-crypto-font-SLG-alt:before {
+.cr-crypto-font-SDC:before {
     content: "\f1f7";
 }
-.cr-crypto-font-SLG:before {
+.cr-crypto-font-SIA-alt:before {
     content: "\f1f8";
 }
-.cr-crypto-font-SLS-alt:before {
+.cr-crypto-font-SIA:before {
     content: "\f1f9";
 }
-.cr-crypto-font-SLS:before {
+.cr-crypto-font-SJCX-alt:before {
     content: "\f1fa";
 }
-.cr-crypto-font-SNRG-alt:before {
+.cr-crypto-font-SJCX:before {
     content: "\f1fb";
 }
-.cr-crypto-font-SNRG:before {
+.cr-crypto-font-SLG-alt:before {
     content: "\f1fc";
 }
-.cr-crypto-font-START-alt:before {
+.cr-crypto-font-SLG:before {
     content: "\f1fd";
 }
-.cr-crypto-font-START:before {
+.cr-crypto-font-SLS-alt:before {
     content: "\f1fe";
 }
-.cr-crypto-font-STEEM-alt:before {
+.cr-crypto-font-SLS:before {
     content: "\f1ff";
 }
-.cr-crypto-font-STEEM:before {
+.cr-crypto-font-SNRG-alt:before {
     content: "\f200";
 }
-.cr-crypto-font-STRAT-alt:before {
+.cr-crypto-font-SNRG:before {
     content: "\f201";
 }
-.cr-crypto-font-STRAT:before {
+.cr-crypto-font-SNT:before {
     content: "\f202";
 }
-.cr-crypto-font-SWIFT-alt:before {
+.cr-crypto-font-START-alt:before {
     content: "\f203";
 }
-.cr-crypto-font-SWIFT:before {
+.cr-crypto-font-START:before {
     content: "\f204";
 }
-.cr-crypto-font-SYNC-alt:before {
+.cr-crypto-font-STEEM-alt:before {
     content: "\f205";
 }
-.cr-crypto-font-SYNC:before {
+.cr-crypto-font-STEEM:before {
     content: "\f206";
 }
-.cr-crypto-font-SYS-alt:before {
+.cr-crypto-font-STRAT-alt:before {
     content: "\f207";
 }
-.cr-crypto-font-SYS:before {
+.cr-crypto-font-STRAT:before {
     content: "\f208";
 }
-.cr-crypto-font-TRIG-alt:before {
+.cr-crypto-font-SWIFT-alt:before {
     content: "\f209";
 }
-.cr-crypto-font-TRIG:before {
+.cr-crypto-font-SWIFT:before {
     content: "\f20a";
 }
-.cr-crypto-font-TX-alt:before {
+.cr-crypto-font-SYNC-alt:before {
     content: "\f20b";
 }
-.cr-crypto-font-TX:before {
+.cr-crypto-font-SYNC:before {
     content: "\f20c";
 }
-.cr-crypto-font-UBQ-alt:before {
+.cr-crypto-font-SYS-alt:before {
     content: "\f20d";
 }
-.cr-crypto-font-UBQ:before {
+.cr-crypto-font-SYS:before {
     content: "\f20e";
 }
-.cr-crypto-font-UNITY-alt:before {
+.cr-crypto-font-TRIG-alt:before {
     content: "\f20f";
 }
-.cr-crypto-font-UNITY:before {
+.cr-crypto-font-TRIG:before {
     content: "\f210";
 }
-.cr-crypto-font-USDT-alt:before {
+.cr-crypto-font-TRX:before {
     content: "\f211";
 }
-.cr-crypto-font-USDT:before {
+.cr-crypto-font-TX-alt:before {
     content: "\f212";
 }
-.cr-crypto-font-VIA-alt:before {
+.cr-crypto-font-TX:before {
     content: "\f213";
 }
-.cr-crypto-font-VIA:before {
+.cr-crypto-font-UBQ-alt:before {
     content: "\f214";
 }
-.cr-crypto-font-VIOR-alt:before {
+.cr-crypto-font-UBQ:before {
     content: "\f215";
 }
-.cr-crypto-font-VIOR:before {
+.cr-crypto-font-UNITY-alt:before {
     content: "\f216";
 }
-.cr-crypto-font-VNL-alt:before {
+.cr-crypto-font-UNITY:before {
     content: "\f217";
 }
-.cr-crypto-font-VNL:before {
+.cr-crypto-font-USDT-alt:before {
     content: "\f218";
 }
-.cr-crypto-font-VPN-alt:before {
+.cr-crypto-font-USDT:before {
     content: "\f219";
 }
-.cr-crypto-font-VPN:before {
+.cr-crypto-font-VERI:before {
     content: "\f21a";
 }
-.cr-crypto-font-VRC-alt:before {
+.cr-crypto-font-VET:before {
     content: "\f21b";
 }
-.cr-crypto-font-VRC:before {
+.cr-crypto-font-VIA-alt:before {
     content: "\f21c";
 }
-.cr-crypto-font-VTC-alt:before {
+.cr-crypto-font-VIA:before {
     content: "\f21d";
 }
-.cr-crypto-font-VTC:before {
+.cr-crypto-font-VIOR-alt:before {
     content: "\f21e";
 }
-.cr-crypto-font-WAVES-alt:before {
+.cr-crypto-font-VIOR:before {
     content: "\f21f";
 }
-.cr-crypto-font-WAVES:before {
+.cr-crypto-font-VNL-alt:before {
     content: "\f220";
 }
-.cr-crypto-font-XAI-alt:before {
+.cr-crypto-font-VNL:before {
     content: "\f221";
 }
-.cr-crypto-font-XAI:before {
+.cr-crypto-font-VPN-alt:before {
     content: "\f222";
 }
-.cr-crypto-font-XBC:before {
+.cr-crypto-font-VPN:before {
     content: "\f223";
 }
-.cr-crypto-font-XBS-alt:before {
+.cr-crypto-font-VRC-alt:before {
     content: "\f224";
 }
-.cr-crypto-font-XBS:before {
+.cr-crypto-font-VRC:before {
     content: "\f225";
 }
-.cr-crypto-font-XCP-alt:before {
+.cr-crypto-font-VTC-alt:before {
     content: "\f226";
 }
-.cr-crypto-font-XCP:before {
+.cr-crypto-font-VTC:before {
     content: "\f227";
 }
-.cr-crypto-font-XEM-alt:before {
+.cr-crypto-font-WAVES-alt:before {
     content: "\f228";
 }
-.cr-crypto-font-XEM:before {
+.cr-crypto-font-WAVES:before {
     content: "\f229";
 }
-.cr-crypto-font-XLM-alt:before {
+.cr-crypto-font-XAI-alt:before {
     content: "\f22a";
 }
-.cr-crypto-font-XLM:before {
+.cr-crypto-font-XAI:before {
     content: "\f22b";
 }
-.cr-crypto-font-XMR:before {
+.cr-crypto-font-XBC:before {
     content: "\f22c";
 }
-.cr-crypto-font-XMY:before {
+.cr-crypto-font-XBS-alt:before {
     content: "\f22d";
 }
-.cr-crypto-font-XPM-alt:before {
+.cr-crypto-font-XBS:before {
     content: "\f22e";
 }
-.cr-crypto-font-XPM:before {
+.cr-crypto-font-XCP-alt:before {
     content: "\f22f";
 }
-.cr-crypto-font-XRP-alt:before {
+.cr-crypto-font-XCP:before {
     content: "\f230";
 }
-.cr-crypto-font-XRP:before {
+.cr-crypto-font-XEM-alt:before {
     content: "\f231";
 }
-.cr-crypto-font-XTZ-alt:before {
+.cr-crypto-font-XEM:before {
     content: "\f232";
 }
-.cr-crypto-font-XTZ:before {
+.cr-crypto-font-XLM-alt:before {
     content: "\f233";
 }
-.cr-crypto-font-XVC-alt:before {
+.cr-crypto-font-XLM:before {
     content: "\f234";
 }
-.cr-crypto-font-XVC:before {
+.cr-crypto-font-XMR:before {
     content: "\f235";
 }
-.cr-crypto-font-XVG-alt:before {
+.cr-crypto-font-XMY:before {
     content: "\f236";
 }
-.cr-crypto-font-XVG:before {
+.cr-crypto-font-XPM-alt:before {
     content: "\f237";
 }
-.cr-crypto-font-XZC-alt:before {
+.cr-crypto-font-XPM:before {
     content: "\f238";
 }
-.cr-crypto-font-XZC:before {
+.cr-crypto-font-XRP-alt:before {
     content: "\f239";
 }
-.cr-crypto-font-YBC-alt:before {
+.cr-crypto-font-XRP:before {
     content: "\f23a";
 }
-.cr-crypto-font-YBC:before {
+.cr-crypto-font-XTZ-alt:before {
     content: "\f23b";
 }
-.cr-crypto-font-ZEC-alt:before {
+.cr-crypto-font-XTZ:before {
     content: "\f23c";
 }
-.cr-crypto-font-ZEC:before {
+.cr-crypto-font-XVC-alt:before {
     content: "\f23d";
 }
-.cr-crypto-font-ZEIT-alt:before {
+.cr-crypto-font-XVC:before {
     content: "\f23e";
 }
-.cr-crypto-font-ZEIT:before {
+.cr-crypto-font-XVG-alt:before {
     content: "\f23f";
 }
-.cr-crypto-font-ZRX-alt:before {
+.cr-crypto-font-XVG:before {
     content: "\f240";
 }
-.cr-crypto-font-ZRX:before {
+.cr-crypto-font-XZC-alt:before {
     content: "\f241";
+}
+.cr-crypto-font-XZC:before {
+    content: "\f242";
+}
+.cr-crypto-font-YBC-alt:before {
+    content: "\f243";
+}
+.cr-crypto-font-YBC:before {
+    content: "\f244";
+}
+.cr-crypto-font-ZEC-alt:before {
+    content: "\f245";
+}
+.cr-crypto-font-ZEC:before {
+    content: "\f246";
+}
+.cr-crypto-font-ZEIT-alt:before {
+    content: "\f247";
+}
+.cr-crypto-font-ZEIT:before {
+    content: "\f248";
+}
+.cr-crypto-font-ZRX-alt:before {
+    content: "\f249";
+}
+.cr-crypto-font-ZRX:before {
+    content: "\f24a";
 }

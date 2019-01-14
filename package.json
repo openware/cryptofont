@@ -24,7 +24,8 @@
     "cryptocoins-icons": "^2.8.0"
   },
   "devDependencies": {
-    "@openware/coding-standards": "^1.0.3",
+    "@openware/coding-standards": "^0.1.0",
+    "@types/jest": "^23.3.12",
     "@types/node": "^10.5.8",
     "@types/sanctuary": "^0.14.2",
     "autoprefixer": "^9.1.0",
@@ -35,6 +36,7 @@
     "cssnano": "^4.0.5",
     "file-loader": "^1.1.11",
     "icon-font-generator": "^2.1.8",
+    "jest": "^23.6.0",
     "json-loader": "^0.5.7",
     "postcss-import": "^12.0.0",
     "postcss-loader": "^3.0.0",
