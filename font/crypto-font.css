@@ -1,8 +1,8 @@
 @font-face {
     font-family: "crypto-font";
-    src: url("./crypto-font.eot?11e190e99af9ae420b2a654d6373f79d?#iefix") format("embedded-opentype"),
-url("./crypto-font.woff?11e190e99af9ae420b2a654d6373f79d") format("woff"),
-url("./crypto-font.ttf?11e190e99af9ae420b2a654d6373f79d") format("truetype");
+    src: url("./crypto-font.eot?ec0e7275da5f5d42eb4ed318fa525b34?#iefix") format("embedded-opentype"),
+url("./crypto-font.woff?ec0e7275da5f5d42eb4ed318fa525b34") format("woff"),
+url("./crypto-font.ttf?ec0e7275da5f5d42eb4ed318fa525b34") format("truetype");
 }
 
 span[class^="cr-crypto-font-"]:before, span[class*=" cr-crypto-font-"]:before {

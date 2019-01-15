@@ -4,10 +4,7 @@
   "description": "CryptoBase Currency Icon Font and CSS",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "files": [
-    "dist"
-  ],
-  "repository": "NONE",
+  "repository": "https://gitub.com/openware/cryptofont",
   "author": "Helios Technologies <contact@heliostech.fr>",
   "license": "UNLICENSED",
   "scripts": {
@@ -24,7 +21,7 @@
     "cryptocoins-icons": "^2.8.0"
   },
   "devDependencies": {
-    "@openware/coding-standards": "^0.1.0",
+    "@openware/coding-standards": "^0.1.1",
     "@types/jest": "^23.3.12",
     "@types/node": "^10.5.8",
     "@types/sanctuary": "^0.14.2",
