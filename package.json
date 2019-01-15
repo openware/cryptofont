@@ -1,6 +1,6 @@
 {
   "name": "@openware/cryptofont",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "CryptoBase Currency Icon Font and CSS",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
