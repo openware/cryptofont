@@ -4,7 +4,7 @@
   "description": "CryptoBase Currency Icon Font and CSS for OpenDAX platform",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "repository": "https://gitub.com/openware/cryptofont",
+  "repository": "https://github.com/openware/cryptofont",
   "author": "Openware <hello@openware.com>",
   "homepage": "https://www.openware.com",
   "license": "Apache-2.0",
